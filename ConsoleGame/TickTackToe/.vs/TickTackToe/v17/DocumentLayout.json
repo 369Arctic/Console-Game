@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\ConsoleGame\\TickTackToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB866624-FE35-4B1F-A44F-EBE9E5EDF7EC}|TickTackToe\\TickTackToe.csproj|d:\\git\\consolegame\\ticktacktoe\\ticktacktoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB866624-FE35-4B1F-A44F-EBE9E5EDF7EC}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB866624-FE35-4B1F-A44F-EBE9E5EDF7EC}|TickTackToe\\TickTackToe.csproj|D:\\Git\\ConsoleGame\\TickTackToe\\ticktacktoe\\myticktackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB866624-FE35-4B1F-A44F-EBE9E5EDF7EC}|TickTackToe\\TickTackToe.csproj|solutionrelative:ticktacktoe\\myticktackgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTickTackGame.cs",
+              "DocumentMoniker": "D:\\Git\\ConsoleGame\\TickTackToe\\TickTackToe\\MyTickTackGame.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\MyTickTackGame.cs",
+              "ToolTip": "D:\\Git\\ConsoleGame\\TickTackToe\\TickTackToe\\MyTickTackGame.cs",
+              "RelativeToolTip": "TickTackToe\\MyTickTackGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:28:59.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git\\ConsoleGame\\TickTackToe\\TickTackToe\\Program.cs",
+              "RelativeDocumentMoniker": "TickTackToe\\Program.cs",
+              "ToolTip": "D:\\Git\\ConsoleGame\\TickTackToe\\TickTackToe\\Program.cs",
+              "RelativeToolTip": "TickTackToe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T08:28:28.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

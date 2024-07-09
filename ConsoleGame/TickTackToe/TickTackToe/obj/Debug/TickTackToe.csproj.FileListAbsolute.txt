@@ -1,0 +1,14 @@
+D:\Users\Дмитрий\source\repos\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe.config
+D:\Users\Дмитрий\source\repos\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe
+D:\Users\Дмитрий\source\repos\TickTackToe\TickTackToe\bin\Debug\TickTackToe.pdb
+D:\Users\Дмитрий\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.AssemblyReference.cache
+D:\Users\Дмитрий\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.CoreCompileInputs.cache
+D:\Users\Дмитрий\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.exe
+D:\Users\Дмитрий\source\repos\TickTackToe\TickTackToe\obj\Debug\TickTackToe.pdb
+D:\Git\ConsoleGame\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe.config
+D:\Git\ConsoleGame\TickTackToe\TickTackToe\bin\Debug\TickTackToe.exe
+D:\Git\ConsoleGame\TickTackToe\TickTackToe\bin\Debug\TickTackToe.pdb
+D:\Git\ConsoleGame\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.AssemblyReference.cache
+D:\Git\ConsoleGame\TickTackToe\TickTackToe\obj\Debug\TickTackToe.csproj.CoreCompileInputs.cache
+D:\Git\ConsoleGame\TickTackToe\TickTackToe\obj\Debug\TickTackToe.exe
+D:\Git\ConsoleGame\TickTackToe\TickTackToe\obj\Debug\TickTackToe.pdb
