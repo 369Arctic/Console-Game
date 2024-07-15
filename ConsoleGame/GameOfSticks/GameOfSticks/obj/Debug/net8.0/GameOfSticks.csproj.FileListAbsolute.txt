@@ -1,0 +1,15 @@
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\bin\Debug\net8.0\GameOfSticks.exe
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\bin\Debug\net8.0\GameOfSticks.deps.json
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\bin\Debug\net8.0\GameOfSticks.runtimeconfig.json
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\bin\Debug\net8.0\GameOfSticks.dll
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\bin\Debug\net8.0\GameOfSticks.pdb
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\GameOfSticks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\GameOfSticks.AssemblyInfoInputs.cache
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\GameOfSticks.AssemblyInfo.cs
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\GameOfSticks.csproj.CoreCompileInputs.cache
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\GameOfSticks.sourcelink.json
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\GameOfSticks.dll
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\refint\GameOfSticks.dll
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\GameOfSticks.pdb
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\GameOfSticks.genruntimeconfig.cache
+D:\Git\Console-Game\ConsoleGame\GameOfSticks\GameOfSticks\obj\Debug\net8.0\ref\GameOfSticks.dll
