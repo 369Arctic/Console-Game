@@ -1,0 +1,15 @@
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\bin\Debug\net8.0\MathTrainer.exe
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\bin\Debug\net8.0\MathTrainer.deps.json
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\bin\Debug\net8.0\MathTrainer.runtimeconfig.json
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\bin\Debug\net8.0\MathTrainer.dll
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\bin\Debug\net8.0\MathTrainer.pdb
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\MathTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\MathTrainer.AssemblyInfoInputs.cache
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\MathTrainer.AssemblyInfo.cs
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\MathTrainer.csproj.CoreCompileInputs.cache
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\MathTrainer.sourcelink.json
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\MathTrainer.dll
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\refint\MathTrainer.dll
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\MathTrainer.pdb
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\MathTrainer.genruntimeconfig.cache
+D:\Git\Console-Game\ConsoleGame\MathTrainer\MathTrainer\obj\Debug\net8.0\ref\MathTrainer.dll
