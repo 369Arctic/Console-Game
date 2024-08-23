@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MathTrainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e00ad4c76188eec755c920012f7b480cfeaa4266")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31a302ea13cb8c67e80e070f518123c7e7951fd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MathTrainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MathTrainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

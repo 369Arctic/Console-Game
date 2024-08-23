@@ -5,7 +5,7 @@
         public int Number1 { get; set; }
         public int Number2 { get; set; }
         public Operation Operation { get; set; }
-        public double CorrectAnswer { get; set; }
+        public double CorrectAnswer { get; private set; }
 
         public MathExpression(int number1, int number2, Operation operation)
         {

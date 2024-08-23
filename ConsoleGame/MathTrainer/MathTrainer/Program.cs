@@ -8,7 +8,7 @@
             var userSettings = UserSettings.GetUserSettings();
             var trainer  = new MathTrainer(userSettings);
 
-            trainer.StartTrainig();
+            trainer.StartTraining();
         }
 
     }
